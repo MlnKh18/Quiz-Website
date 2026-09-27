@@ -1,0 +1,259 @@
+[
+  {
+    "id": 1,
+    "type": "multiple_choice",
+    "question": "Apa yang dimaksud dengan keberagaman budaya di Indonesia?",
+    "options": [
+      "Perbedaan jumlah kekayaan dan uang jajan yang dimiliki setiap keluarga",
+      "Macam-macam tradisi, bahasa, pakaian, tarian, dan kesenian yang dimiliki suku bangsa di Indonesia",
+      "Perbedaan jenis pekerjaan orang tua siswa di lingkungan sekolah",
+      "Perbedaan jenis kendaraan dan gedung bertingkat di perkotaan"
+    ],
+    "answer": "Macam-macam tradisi, bahasa, pakaian, tarian, dan kesenian yang dimiliki suku bangsa di Indonesia",
+    "explanation": "Keberagaman budaya adalah variasi adat istiadat, bahasa daerah, kesenian, pakaian, dan tradisi yang diwariskan turun-temurun oleh berbagai suku bangsa di Nusantara.",
+    "correctFeedback": "🎉 Hebat! Jawaban kamu benar. Keberagaman budaya adalah ragam adat, bahasa, dan kesenian indah yang dimiliki suku-suku di Indonesia.",
+    "wrongFeedback": "😊 Belum tepat. Keberagaman budaya berkaitan dengan adat istiadat, kesenian, dan bahasa daerah, bukan tentang harta atau kendaraan.",
+    "score": 10
+  },
+  {
+    "id": 2,
+    "type": "multiple_choice",
+    "question": "Di bawah ini yang merupakan contoh wujud keberagaman budaya asli bangsa Indonesia adalah...",
+    "options": [
+      "Mobil listrik, kereta cepat, dan pesawat terbang",
+      "Rumah adat, pakaian daerah, tarian tradisional, dan alat musik daerah",
+      "Makanan cepat saji (fast food) dan minuman kaleng impor",
+      "Gedung bioskop, jalan tol, dan pusat perbelanjaan"
+    ],
+    "answer": "Rumah adat, pakaian daerah, tarian tradisional, dan alat musik daerah",
+    "explanation": "Rumah adat, pakaian daerah, tarian, dan alat musik daerah adalah bukti nyata warisan bentuk keragaman budaya asli Nusantara.",
+    "correctFeedback": "🎉 Luar biasa! Jawabanmu tepat. Rumah adat, pakaian adat, tarian, dan alat musik daerah adalah contoh kekayaan budaya bangsa kita.",
+    "wrongFeedback": "😊 Kurang tepat. Contoh budaya asli meliputi rumah adat, pakaian daerah, dan kesenian tradisional daerah.",
+    "score": 10
+  },
+  {
+    "id": 3,
+    "type": "matching",
+    "question": "Jodohkan contoh warisan budaya di Kolom Kiri dengan daerah asalnya di Kolom Kanan secara tepat!",
+    "pairs": [
+      { "left": "Kesenian Reog", "right": "Ponorogo (Jawa Timur)" },
+      { "left": "Makanan Tradisional Rendang", "right": "Padang (Sumatra Barat)" },
+      { "left": "Boneka Raksasa Ondel-ondel", "right": "Betawi (DKI Jakarta)" }
+    ],
+    "answer": {
+      "Kesenian Reog": "Ponorogo (Jawa Timur)",
+      "Makanan Tradisional Rendang": "Padang (Sumatra Barat)",
+      "Boneka Raksasa Ondel-ondel": "Betawi (DKI Jakarta)"
+    },
+    "explanation": "Reog berasal dari Ponorogo (Jawa Timur), Rendang dari Minangkabau/Padang (Sumatra Barat), dan Ondel-ondel dari Betawi (DKI Jakarta).",
+    "correctFeedback": "🎉 Keren sekali! Pasanganmu tepat semua. Kamu mengenali contoh budaya daerah dan asal usulnya dengan sangat baik!",
+    "wrongFeedback": "😊 Masih ada yang belum cocok. Reog dari Ponorogo, Rendang dari Padang, dan Ondel-ondel dari Betawi. Yuk ingat kembali!",
+    "score": 10
+  },
+  {
+    "id": 4,
+    "type": "matching",
+    "question": "Jodohkan Jenis Budaya di Kolom Kiri dengan Contoh Nyatanya di Kolom Kanan secara tepat!",
+    "pairs": [
+      { "left": "Alat Musik Tradisional", "right": "Angklung dan Sasando" },
+      { "left": "Pakaian Adat", "right": "Baju Bodo dan Kain Ulos" },
+      { "left": "Senjata Tradisional", "right": "Keris dan Rencong" }
+    ],
+    "answer": {
+      "Alat Musik Tradisional": "Angklung dan Sasando",
+      "Pakaian Adat": "Baju Bodo dan Kain Ulos",
+      "Senjata Tradisional": "Keris dan Rencong"
+    },
+    "explanation": "Angklung dan Sasando adalah alat musik tradisional; Baju Bodo dan Ulos adalah pakaian adat; Keris dan Rencong adalah senjata tradisional warisan leluhur.",
+    "correctFeedback": "🎉 Pintar! Pasanganmu benar semua. Kamu mampu mengelompokkan jenis warisan budaya dengan tepat!",
+    "wrongFeedback": "😊 Ada yang tertukar. Alat musik: Angklung/Sasando, Pakaian adat: Baju Bodo/Ulos, Senjata tradisional: Keris/Rencong.",
+    "score": 10
+  },
+  {
+    "id": 5,
+    "type": "multiple_choice",
+    "question": "Mengapa keberagaman budaya yang kita miliki harus dibanggakan dan dijaga bersama?",
+    "options": [
+      "Karena keberagaman budaya membuat Indonesia mudah terpecah belah",
+      "Karena keberagaman budaya merupakan warisan luhur yang unik, indah, dan memperkaya identitas bangsa",
+      "Karena keberagaman budaya bisa kita gunakan untuk menyombongkan diri kepada bangsa lain",
+      "Karena keberagaman budaya membuat masyarakat tidak perlu saling mengenal"
+    ],
+    "answer": "Karena keberagaman budaya merupakan warisan luhur yang unik, indah, dan memperkaya identitas bangsa",
+    "explanation": "Keberagaman budaya adalah anugerah Tuhan yang membuat bangsa kita memiliki keunikan istimewa dan menjadi identitas pemersatu bangsa di mata dunia.",
+    "correctFeedback": "🎉 Hebat! Pilihanmu benar. Keberagaman membuat bangsa kita sangat unik, kaya warna, dan memiliki identitas yang kuat!",
+    "wrongFeedback": "😊 Belum tepat. Keberagaman budaya dibanggakan karena keunikan dan keindahannya yang memperkaya identitas bangsa kita.",
+    "score": 10
+  },
+  {
+    "id": 6,
+    "type": "multiple_choice",
+    "question": "Apa manfaat positif dari adanya keberagaman budaya bagi kehidupan masyarakat Indonesia?",
+    "options": [
+      "Menumbuhkan sikap toleransi, mempererat persatuan, dan menarik wisatawan",
+      "Menciptakan persaingan yang tidak sehat antarwarga desa",
+      "Membuat masyarakat hanya mau bergaul dengan orang yang satu suku",
+      "Menyebabkan perbedaan pendapat yang berujung pada pertengkaran"
+    ],
+    "answer": "Menumbuhkan sikap toleransi, mempererat persatuan, dan menarik wisatawan",
+    "explanation": "Keberagaman budaya melatih masyarakat untuk saling menghormati (toleransi), memperkokoh persaudaraan, serta mendatangkan manfaat ekonomi pariwisata.",
+    "correctFeedback": "🎉 Tepat sekali! Keberagaman bermanfaat menumbuhkan sikap toleransi dan mempererat tali persaudaraan antarwarga masyarakat.",
+    "wrongFeedback": "😊 Kurang tepat. Manfaat keberagaman adalah menciptakan kerukunan, toleransi, dan menarik daya tarik wisata kebudayaan.",
+    "score": 10
+  },
+  {
+    "id": 7,
+    "type": "true_false",
+    "question": "Mengenakan pakaian batik bermotif daerah pada peringatan hari besar di sekolah dengan perasaan senang dan percaya diri merupakan wujud sikap bangga terhadap budaya Indonesia.",
+    "options": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": "Benar",
+    "explanation": "Memakai batik dengan senang dan percaya diri membuktikan kecintaan dan kebanggaan kita terhadap karya seni warisan bangsa sendiri.",
+    "correctFeedback": "🎉 Bagus sekali! Jawabanmu Benar. Senang memakai batik adalah tanda anak Indonesia yang bangga pada budayanya!",
+    "wrongFeedback": "😊 Belum tepat. Pernyataan tersebut adalah Benar, karena memakai batik dengan senang merupakan bukti rasa bangga terhadap budaya Nusantara.",
+    "score": 10
+  },
+  {
+    "id": 8,
+    "type": "multiple_choice",
+    "question": "Di kelas IV, ada siswa baru bernama Dedi yang berbicara dengan dialek dan logat bahasa daerah asalnya yang kental. Sikap yang paling tepat kamu tunjukkan adalah...",
+    "options": [
+      "Menertawakan logat bicaranya bersama teman-teman sekelas",
+      "Menghargai cara bicaranya dan tetap mengajaknya mengobrol dengan ramah",
+      "Meminta guru agar Dedi tidak diperbolehkan berbicara di kelas",
+      "Menjauhi Dedi karena menganggap gaya bicaranya aneh"
+    ],
+    "answer": "Menghargai cara bicaranya dan tetap mengajaknya mengobrol dengan ramah",
+    "explanation": "Setiap daerah memiliki dialek/logat bahasa yang unik. Kita wajib menghargai perbedaan tersebut dengan tetap bersikap ramah dan bersahabat.",
+    "correctFeedback": "🎉 Keren! Jawabanmu sangat tepat. Sikap ramah dan menghargai dialek teman mencerminkan indahnya pertemanan di sekolah.",
+    "wrongFeedback": "😊 Belum tepat. Kita tidak boleh mengejek logat teman. Sikap yang benar adalah menghargai dan tetap mengajaknya berteman secara ramah.",
+    "score": 10
+  },
+  {
+    "id": 9,
+    "type": "true_false",
+    "question": "Mengejek gerakan tarian tradisional daerah teman merupakan contoh perilaku yang sesuai dalam menghargai keberagaman budaya.",
+    "options": [
+      "Benar",
+      "Salah"
+    ],
+    "answer": "Salah",
+    "explanation": "Mengejek tarian daerah orang lain adalah tindakan tidak terpuji yang dapat melukai perasaan teman dan merusak kerukunan.",
+    "correctFeedback": "🎉 Tepat! Jawabanmu benar. Mengejek tarian teman adalah perilaku yang salah dan harus dihindari.",
+    "wrongFeedback": "😊 Kurang tepat. Pernyataan tersebut adalah Salah, karena mengejek tarian daerah teman adalah tindakan yang tidak pantas dan merusak persatuan.",
+    "score": 10
+  },
+  {
+    "id": 10,
+    "type": "multiple_choice",
+    "question": "Manakah tindakan di bawah ini yang menunjukkan adanya kemauan dan rasa ingin mengenal budaya dari daerah lain?",
+    "options": [
+      "Senang membaca buku dongeng Nusantara dan bersemangat mencicipi kue tradisional khas daerah lain",
+      "Menutup mata dan telinga saat ada pertunjukan musik daerah lain di televisi",
+      "Hanya mau memakan makanan yang berasal dari daerah sukunya sendiri",
+      "Menolak berkunjung ke stan pameran budaya daerah lain saat ada festival sekolah"
+    ],
+    "answer": "Senang membaca buku dongeng Nusantara dan bersemangat mencicipi kue tradisional khas daerah lain",
+    "explanation": "Mau membaca cerita rakyat dan mencoba mencicipi kuliner khas daerah lain menunjukkan sikap terbuka dan antusias mengenal kekayaan budaya Nusantara.",
+    "correctFeedback": "🎉 Hebat! Jawabanmu benar. Membaca cerita rakyat dan mencicipi kuliner daerah lain adalah cara asyik mengenal budaya Nusantara.",
+    "wrongFeedback": "😊 Belum tepat. Rasa ingin mengenal budaya lain ditunjukkan dengan antusias mencoba kuliner dan mempelajari cerita daerah Nusantara.",
+    "score": 10
+  },
+  {
+    "id": 11,
+    "type": "multiple_choice",
+    "question": "Situasi Belajar: Ibu Guru membagi tugas kelompok membuat karya kolase IPAS. Kelompokmu terdiri dari 4 anak yang berasal dari suku Jawa, Sunda, Batak, dan Bali. Agar tugas kelompok selesai tepat waktu dan hasilnya memuaskan, sikap apa yang harus dilakukan?",
+    "options": [
+      "Membagi tugas secara adil serta saling mendengarkan ide kreasi dari semua anggota",
+      "Menyerahkan semua pekerjaan hanya kepada teman yang dianggap paling pintar menggambar",
+      "Hanya mau berdiskusi dengan teman yang memiliki suku yang sama",
+      "Bertengkar memaksakan gambar rumah adat dari daerah masing-masing tanpa kompromi"
+    ],
+    "answer": "Membagi tugas secara adil serta saling mendengarkan ide kreasi dari semua anggota",
+    "explanation": "Kerja sama yang baik tercapai apabila setiap anggota kelompok saling menghargai pendapat, berbagi tugas secara adil, dan bergotong royong tanpa membedakan suku asal.",
+    "correctFeedback": "🎉 Luar biasa! Analisis kamu tepat sekali. Gotong royong dan saling mendengar ide membuat tugas kelompok sukses dan pertemanan makin akrab!",
+    "wrongFeedback": "😊 Belum tepat. Dalam kerja kelompok, kita harus membagi tugas dengan adil dan mendengarkan saran semua teman tanpa membeda-bedakan suku.",
+    "score": 10
+  },
+  {
+    "id": 12,
+    "type": "multiple_choice",
+    "question": "Sebagai seorang murid kelas IV SD, apa contoh tanggung jawabmu dalam menjaga kerukunan dan keberagaman budaya di sekolah?",
+    "options": [
+      "Mengajak teman untuk tidak mau berteman dengan anak yang berbeda suku",
+      "Bersikap rukun, saling menghormati, dan tidak membeda-bedakan teman saat belajar maupun bermain",
+      "Merasa tradisi daerah sendiri adalah yang paling hebat di antara yang lain",
+      "Melarang teman menampilkan tarian daerah asalnya saat acara kelas"
+    ],
+    "answer": "Bersikap rukun, saling menghormati, dan tidak membeda-bedakan teman saat belajar maupun bermain",
+    "explanation": "Tanggung jawab utama siswa dalam menjaga keberagaman adalah menjaga kerukunan, bermain bersama dengan adil, dan tidak membeda-bedakan latar belakang teman.",
+    "correctFeedback": "🎉 Pintar! Jawabanmu benar. Menjaga kerukunan dan bermain tanpa membeda-bedakan suku adalah tanggung jawab kita semua.",
+    "wrongFeedback": "😊 Belum tepat. Tanggung jawab siswa adalah menjaga kerukunan dan saling menghormati antarteman di sekolah.",
+    "score": 10
+  },
+  {
+    "id": 13,
+    "type": "multiple_choice",
+    "question": "Di bawah ini yang merupakan tindakan sederhana seorang siswa kelas IV untuk ikut melestarikan budaya daerah di sekolah adalah...",
+    "options": [
+      "Mengikuti latihan ekstrakurikuler seni tari tradisional atau musik gamelan/angklung dengan tekun",
+      "Malu saat diajak menyanyikan lagu daerah di depan kelas",
+      "Menolak belajar muatan lokal bahasa daerah yang diajarkan oleh guru",
+      "Hanya bermain gawai (gadget) dan melupakan semua permainan tradisional"
+    ],
+    "answer": "Mengikuti latihan ekstrakurikuler seni tari tradisional atau musik gamelan/angklung dengan tekun",
+    "explanation": "Aktif belajar tarian dan alat musik tradisional di sekolah adalah wujud nyata upaya anak usia SD dalam merawat seni budaya bangsa agar tidak punah.",
+    "correctFeedback": "🎉 Keren sekali! Pilihanmu benar. Semangat belajar tari dan musik daerah adalah cara hebat menjaga budaya kita tetap hidup!",
+    "wrongFeedback": "😊 Kurang tepat. Melestarikan budaya dapat dilakukan dengan aktif mengikuti kegiatan seni daerah, seperti tari atau musik tradisional.",
+    "score": 10
+  },
+  {
+    "id": 14,
+    "type": "matching",
+    "question": "Jodohkan Tindakan Pelestarian Budaya di Kolom Kiri dengan Tujuan Pelestariannya di Kolom Kanan secara tepat!",
+    "pairs": [
+      {
+        "left": "Mempelajari lagu dan tarian daerah di sanggar seni",
+        "right": "Menjaga agar seni pertunjukan tradisional tetap lestari dan dikenal generasi muda"
+      },
+      {
+        "left": "Mengadakan festival kuliner jajanan tradisional di sekolah",
+        "right": "Mengenalkan kekayaan cita rasa dan kelezatan masakan khas daerah"
+      },
+      {
+        "left": "Berkunjung ke museum budaya dan rumah adat bersama keluarga",
+        "right": "Mengenal sejarah dan keunikan arsitektur rumah adat Nusantara"
+      }
+    ],
+    "answer": {
+      "Mempelajari lagu dan tarian daerah di sanggar seni": "Menjaga agar seni pertunjukan tradisional tetap lestari dan dikenal generasi muda",
+      "Mengadakan festival kuliner jajanan tradisional di sekolah": "Mengenalkan kekayaan cita rasa dan kelezatan masakan khas daerah",
+      "Berkunjung ke museum budaya dan rumah adat bersama keluarga": "Mengenal sejarah dan keunikan arsitektur rumah adat Nusantara"
+    },
+    "explanation": "Belajar tari bertujuan melestarikan seni pertunjukan; festival makanan bertujuan mengenalkan kelezatan masakan khas daerah; kunjungan museum bertujuan memperluas wawasan sejarah dan arsitektur.",
+    "correctFeedback": "🎉 Hebat! Pasanganmu benar semua. Kamu memahami dengan baik setiap tujuan dari kegiatan pelestarian budaya!",
+    "wrongFeedback": "😊 Ada yang belum pas. Tari untuk seni pertunjukan, festival makanan untuk kuliner tradisional, dan kunjungan museum untuk wawasan sejarah/arsitektur.",
+    "score": 10
+  },
+  {
+    "id": 15,
+    "type": "multiple_select",
+    "question": "Cerita Kasus:\nPada acara Pentas Seni Budaya di sekolah, Riko sempat berbisik mengejek hiasan kepala pakaian adat yang dikenakan oleh Wayan. Guru yang melihat hal tersebut kemudian mengingatkan pentingnya semboyan Bhinneka Tunggal Ika.\n\nBerdasarkan kasus tersebut, pilihlah dua (2) sikap yang paling tepat dilakukan agar suasana sekolah kembali rukun dan budaya saling menghargai tetap terjaga!",
+    "options": [
+      "Riko menyadari kesalahannya, meminta maaf kepada Wayan, dan memuji keunikan pakaian adat Wayan",
+      "Wayan membalas dengan merusak hiasan pakaian adat yang dipakai oleh Riko",
+      "Seluruh siswa saling memberikan tepuk tangan meriah dan mengapresiasi penampilan seni dari semua daerah",
+      "Meminta guru agar acara pentas seni kebudayaan dihentikan saja"
+    ],
+    "answer": [
+      "Riko menyadari kesalahannya, meminta maaf kepada Wayan, dan memuji keunikan pakaian adat Wayan",
+      "Seluruh siswa saling memberikan tepuk tangan meriah dan mengapresiasi penampilan seni dari semua daerah"
+    ],
+    "explanation": "Penyelesaian terbaik atas perselisihan keberagaman adalah berani meminta maaf, menghormati keunikan busana adat, dan saling memberikan apresiasi tepuk tangan kepada semua penampil.",
+    "correctFeedback": "🎉 Luar biasa! Pilihanmu 100% tepat dan bijak. Meminta maaf dan saling memberi tepuk tangan apresiasi adalah kunci indahnya kerukunan di sekolah!",
+    "wrongFeedback": "😊 Masih belum tepat. Jangan membalas ejekan dengan kekerasan. Sikap yang benar adalah berani meminta maaf dan saling mengapresiasi keragaman teman dengan tulus.",
+    "score": 10
+  }
+]
