@@ -10,7 +10,7 @@
 const QUIZ_DATA = [
   {
     id: 1,
-    category: "IPAS KELAS 4 FASE B â€¢ BENTUK KEBERAGAMAN",
+    category: "IPAS KELAS 4 FASE B • BENTUK KEBERAGAMAN",
     type: "multiple_choice",
     question: "Apa yang dimaksud dengan keberagaman budaya di Indonesia?",
     options: [
@@ -27,7 +27,7 @@ const QUIZ_DATA = [
   },
   {
     id: 2,
-    category: "IPAS KELAS 4 FASE B â€¢ BENTUK KEBERAGAMAN",
+    category: "IPAS KELAS 4 FASE B • BENTUK KEBERAGAMAN",
     type: "multiple_choice",
     question:
       "Di bawah ini yang merupakan contoh wujud keberagaman budaya asli bangsa Indonesia adalah...",
@@ -45,7 +45,7 @@ const QUIZ_DATA = [
   },
   {
     id: 3,
-    category: "IPAS KELAS 4 FASE B â€¢ KEARIFAN LOKAL SEKITAR",
+    category: "IPAS KELAS 4 FASE B • KEARIFAN LOKAL SEKITAR",
     type: "matching",
     question:
       "Pasangkan contoh warisan budaya di Kolom Kiri dengan daerah asalnya di Kolom Kanan:",
@@ -65,7 +65,7 @@ const QUIZ_DATA = [
   },
   {
     id: 4,
-    category: "IPAS KELAS 4 FASE B â€¢ BENTUK KEBERAGAMAN",
+    category: "IPAS KELAS 4 FASE B • BENTUK KEBERAGAMAN",
     type: "matching",
     question:
       "Hubungkan jenis budaya di Kolom Kiri dengan contoh nyatanya di Kolom Kanan:",
@@ -85,7 +85,7 @@ const QUIZ_DATA = [
   },
   {
     id: 5,
-    category: "IPAS KELAS 4 FASE B â€¢ KEKAYAAN BANGSA",
+    category: "IPAS KELAS 4 FASE B • KEKAYAAN BANGSA",
     type: "multiple_choice",
     question:
       "Mengapa keberagaman budaya yang kita miliki harus dibanggakan dan dijaga bersama?",
@@ -103,7 +103,7 @@ const QUIZ_DATA = [
   },
   {
     id: 6,
-    category: "IPAS KELAS 4 FASE B â€¢ MANFAAT KEBERAGAMAN",
+    category: "IPAS KELAS 4 FASE B • MANFAAT KEBERAGAMAN",
     type: "multiple_choice",
     question:
       "Apa manfaat positif dari adanya keberagaman budaya bagi kehidupan masyarakat Indonesia?",
@@ -121,7 +121,7 @@ const QUIZ_DATA = [
   },
   {
     id: 7,
-    category: "IPAS KELAS 4 FASE B â€¢ SIKAP BANGGA BUDAYA",
+    category: "IPAS KELAS 4 FASE B • SIKAP BANGGA BUDAYA",
     type: "true_false",
     question:
       "Mengenakan pakaian batik bermotif daerah pada peringatan hari besar di sekolah dengan senang dan percaya diri merupakan wujud sikap bangga terhadap budaya Indonesia.",
@@ -133,7 +133,7 @@ const QUIZ_DATA = [
   },
   {
     id: 8,
-    category: "IPAS KELAS 4 FASE B â€¢ MENGHARGAI PERBEDAAN",
+    category: "IPAS KELAS 4 FASE B • MENGHARGAI PERBEDAAN",
     type: "multiple_choice",
     question:
       "Di kelas 4, ada siswa baru bernama Dedi yang berbicara dengan dialek dan logat daerah asalnya yang kental. Sikap yang paling tepat kamu tunjukkan adalah...",
@@ -151,7 +151,7 @@ const QUIZ_DATA = [
   },
   {
     id: 9,
-    category: "IPAS KELAS 4 FASE B â€¢ IDENTIFIKASI PERILAKU",
+    category: "IPAS KELAS 4 FASE B • IDENTIFIKASI PERILAKU",
     type: "true_false",
     question:
       "Mengejek gerakan tarian tradisional daerah teman merupakan contoh perilaku yang sesuai dalam menghargai keberagaman budaya.",
@@ -163,7 +163,7 @@ const QUIZ_DATA = [
   },
   {
     id: 10,
-    category: "IPAS KELAS 4 FASE B â€¢ KETERBUKAAN BUDAYA",
+    category: "IPAS KELAS 4 FASE B • KETERBUKAAN BUDAYA",
     type: "multiple_choice",
     question:
       "Manakah tindakan di bawah ini yang menunjukkan adanya kemauan dan rasa ingin mengenal budaya dari daerah lain?",
@@ -181,7 +181,7 @@ const QUIZ_DATA = [
   },
   {
     id: 11,
-    category: "IPAS KELAS 4 FASE B â€¢ KERJA SAMA LINTAS BUDAYA",
+    category: "IPAS KELAS 4 FASE B • KERJA SAMA LINTAS BUDAYA",
     type: "multiple_choice",
     question:
       "Situasi Belajar: Kelompok belajarmu terdiri dari siswa yang berasal dari suku Jawa, Sunda, Batak, dan Bali. Agar tugas kolase selesai dengan baik, sikap apa yang harus dilakukan?",
@@ -199,7 +199,7 @@ const QUIZ_DATA = [
   },
   {
     id: 12,
-    category: "IPAS KELAS 4 FASE B â€¢ TANGGUNG JAWAB SISWA",
+    category: "IPAS KELAS 4 FASE B • TANGGUNG JAWAB SISWA",
     type: "multiple_choice",
     question:
       "Sebagai seorang murid Kelas 4 Fase B, apa contoh tanggung jawabmu dalam menjaga kerukunan dan keberagaman budaya di sekolah?",
@@ -217,7 +217,7 @@ const QUIZ_DATA = [
   },
   {
     id: 13,
-    category: "IPAS KELAS 4 FASE B â€¢ PELESTARIAN BUDAYA",
+    category: "IPAS KELAS 4 FASE B • PELESTARIAN BUDAYA",
     type: "multiple_choice",
     question:
       "Di bawah ini yang merupakan tindakan sederhana seorang siswa kelas 4 untuk ikut melestarikan budaya daerah di sekolah adalah...",
@@ -235,7 +235,7 @@ const QUIZ_DATA = [
   },
   {
     id: 14,
-    category: "IPAS KELAS 4 FASE B â€¢ AKSI & TUJUAN PELESTARIAN",
+    category: "IPAS KELAS 4 FASE B • AKSI & TUJUAN PELESTARIAN",
     type: "matching",
     question:
       "Pasangkan tindakan pelestarian budaya di Kolom Kiri dengan tujuan pelestariannya di Kolom Kanan:",
@@ -267,7 +267,7 @@ const QUIZ_DATA = [
   },
   {
     id: 15,
-    category: "IPAS KELAS 4 FASE B â€¢ ANALISIS KASUS SEKOLAH",
+    category: "IPAS KELAS 4 FASE B • ANALISIS KASUS SEKOLAH",
     type: "multiple_select",
     question:
       "Kasus: Pada acara Pentas Seni Sekolah, Riko sempat berbisik mengejek hiasan kepala pakaian adat Wayan. Guru mengingatkan semboyan Bhinneka Tunggal Ika. Manakah dua (2) tindakan yang tepat dilakukan?",
@@ -508,7 +508,7 @@ function renderQuestion() {
 
   // Set Category & Title
   dom.cardCategoryLabel.textContent =
-    q.category || "IPAS KELAS 4 FASE B â€¢ KEBERAGAMAN BUDAYA";
+    q.category || "IPAS KELAS 4 FASE B • KEBERAGAMAN BUDAYA";
   dom.questionText.textContent = q.question;
 
   // Reset Feedback & Next Button State
@@ -843,7 +843,7 @@ function syncToGoogleSheets(record) {
   const webAppUrl = settings.webAppUrl || "";
 
   if (!webAppUrl) {
-    // No URL configured â€” show stored-locally state
+    // No URL configured - show stored-locally state
     setSyncStatus("local", "Tersimpan di perangkat ini");
     return;
   }
@@ -960,10 +960,10 @@ function openReviewModal() {
 
     if (q.type === "matching") {
       userAnsDisplay = Object.entries(item.userAnswer)
-        .map(([k, v]) => `${k} â†’ ${v}`)
+        .map(([k, v]) => `${k} → ${v}`)
         .join("; ");
       correctAnsDisplay = Object.entries(q.answer)
-        .map(([k, v]) => `${k} â†’ ${v}`)
+        .map(([k, v]) => `${k} → ${v}`)
         .join("; ");
     } else if (Array.isArray(item.userAnswer)) {
       userAnsDisplay = item.userAnswer.join(", ");
