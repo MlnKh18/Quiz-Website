@@ -375,7 +375,7 @@ function exportToExcel(classFilter) {
     "Skor (Maks 150)": r.score || 0,
     "Nilai (Skala 100)": r.grade100 || 0,
     "Predikat": r.predicate || "",
-    "Mata Pelajaran": "IPAS (Fase B Kelas IV SD Bab 7 Topik C)"
+    "Mata Pelajaran": "IPAS (Fase B Kelas V SD Bab 7 Topik C)"
   }));
 
   // Create Worksheet
